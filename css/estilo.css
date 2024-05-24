@@ -1,7 +1,6 @@
-.root{
-
+:root{
   --bg-color: #0C0C23;
-  /*--bg-color1: linear-gradient(70deg, blue,#0C0C23);*/
+  --bg-color1: linear-gradient(70deg, blue,#0C0C23);
   --bg-color3:#FC6600;
   --bg-color4:red;
   --bg-color5:#fff;
@@ -39,15 +38,15 @@ body {
   width: 100px;
   height: 100px;
 }
-#monu {
+#menu {
   display: flex;
   list-style: none;
   gap:0.5rem;
 }
-#monu a {
+#menu a {
   display:block;
 }
-#monu a {
+#menu a {
   text-decoration: none;
   text-transform: uppercase;
   padding: 5px;
